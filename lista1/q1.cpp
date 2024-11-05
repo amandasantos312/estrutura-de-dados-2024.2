@@ -16,6 +16,7 @@ int main() {
 
     cout<<"Nome1: "<<endl;
     cin>>nome1;
+    
     cout<<"Nome2: "<<endl;
     cin>>nome2;
 
