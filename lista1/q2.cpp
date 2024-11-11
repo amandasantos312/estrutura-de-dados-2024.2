@@ -37,6 +37,6 @@ int main() {
         cout<<"\nSao Iguais!";
     } else {
         cout<<"\nSao Diferentes!";
-    }
+    } 
 }
 
