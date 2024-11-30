@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "../cap9-Listas/funcoes.cpp"
+#include "cap9-Listas/funcoes-de-exemplos.cpp"
 
 int main() {
     Lista I = no(3, no(1, no(5, NULL)));
